@@ -93,8 +93,6 @@ Sample predictions:
 
 
 <img width="1009" height="590" alt="image" src="https://github.com/user-attachments/assets/c5683a4e-4732-41fe-a73d-1959c02f06ce" />
-<img width="389" height="425" alt="image" src="https://github.com/user-attachments/assets/01165a73-9e38-40da-a48a-1cafb7c37bda" />
-
 
 ### References
 - **Intel Image Classification Dataset:** [Kaggle](https://www.kaggle.com/puneet6060/intel-image-classification)  
